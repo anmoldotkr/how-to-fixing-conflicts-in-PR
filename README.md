@@ -1,0 +1,1 @@
+# how-to-fixing-conflicts-in-PR
